@@ -4,7 +4,7 @@ Skills: Data exploration, Data visualization </br>
 Use tables and histograms to explore and visualize the Bay Area Bike Share data. 
 
 <p align="left">
-  <img src="table.JPG" width="400"/>
+  <img src="table.JPG" width="600"/>
 </p>
 <p align="left">
   <img src="hist.JPG" width="400"/>
